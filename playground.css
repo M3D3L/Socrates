@@ -1,0 +1,55 @@
+.title{
+	font-family: 'Quattrocento', serif;
+	 font-size: 75px;
+	 text-align: center;
+	 background-color: rgba(220,220,220,0.5);
+
+}
+
+}
+
+.cell{
+ 	background-color: f7f8f3;
+ }
+
+.title2{
+	font-family: 'Quattrocento', serif;
+	 font-size: 35px;
+	 text-align: center;
+	 color: f7f8f3;
+	 background-color: black;
+}
+
+
+ul, li {
+	font-family: 'Quattrocento', serif;
+	 font-size: 30px;
+	 color: black;
+	 background-color: rgba(220,220,220,0.5);
+}
+
+.footer{
+font-family: 'Quattrocento', serif;
+	 font-size: 30px;
+	 color: black;
+	 background-color: rgba(220,220,220,0.5);
+	 text-align: center;
+}
+.tag{
+	font-family: 'Quattrocento', serif;
+	 font-size: 33px;
+	 color: black;
+	 background-color: rgba(220,220,220,0.5);
+	 font-weight: bold;
+}
+body{
+	background-color:f7f8f3;
+}
+
+#img-div {
+ 
+ display: flex;
+justify-content: center;
+align-items: center;
+color: f7f8f3;
+}
